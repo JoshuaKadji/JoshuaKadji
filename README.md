@@ -1,4 +1,4 @@
-![]("FakeKing_PFP.png")
+![](FakeKing_PFP.png)
 # Joshua Kadji
 **"Developer (Python,Lua,C++)"**
 
