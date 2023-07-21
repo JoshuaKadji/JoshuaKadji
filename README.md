@@ -1,10 +1,6 @@
-# Joshua Kadji
+<h1 align="center" width="600px">👋Hi there im Joshua👋</h1>
 
-I im a developer who works with a viarty of codeing languages this includes the icons lised below
-
-
-
-<h1 align="center">🔨🧰Languages/Tools🧰🔨</h1>
+<h1 align="center">🔨🧰Languages/Tools🧰🔨</h1> 
 <p align="center">
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -25,9 +21,8 @@ I im a developer who works with a viarty of codeing languages this includes the 
 
 <h1 align="center">📜Stats📜</h1>
 
-<p>
-  
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaKadji&show_icons=true&theme=radical)
 
-<h1 align="center">👀Projects👀</h1>
+<h1 align="center">👀Main Projects👀</h1>
 
+<h1 align="center">📫Other Projects Below📫</h1>
